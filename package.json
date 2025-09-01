@@ -1,0 +1,12 @@
+{
+  "name": "polynomial-constant-solver",
+  "version": "1.0.0",
+  "description": "Calculates the constant term 'c' of a polynomial that passes through a given set of points from a JSON file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
